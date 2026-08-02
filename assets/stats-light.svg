@@ -1,5 +1,5 @@
-<svg width="480" height="324" viewBox="0 0 480 324" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub stats for yashbedekar07">
-<rect width="480" height="324" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<svg width="480" height="412" viewBox="0 0 480 412" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub stats for yashbedekar07">
+<rect width="480" height="412" rx="12" fill="#ffffff" stroke="#d0d7de"/>
 <rect width="480" height="32" rx="12" fill="#f6f8fa"/>
 <rect y="20" width="480" height="12" fill="#f6f8fa"/>
 <circle cx="20" cy="16" r="5" fill="#ff5f56"/>
@@ -11,15 +11,31 @@
 <text x="24" y="72" fill="#0969da" font-family="monospace" font-size="15" font-weight="bold">yashbedekar07</text>
 <text x="24" y="100" fill="#1a7f37" font-family="monospace" font-size="13">$</text>
 <text x="40" y="100" fill="#57606a" font-family="monospace" font-size="13">git log --stat --since="1 year ago"</text>
-<text x="40" y="122" fill="#24292f" font-family="monospace" font-size="13" xml:space="preserve">commits (1y).... 0</text>
+<text x="40" y="122" fill="#24292f" font-family="monospace" font-size="13" xml:space="preserve">commits (1y).... 32</text>
 <text x="40" y="144" fill="#24292f" font-family="monospace" font-size="13" xml:space="preserve">stars........... 0</text>
-<text x="40" y="166" fill="#24292f" font-family="monospace" font-size="13" xml:space="preserve">followers....... 0</text>
-<text x="40" y="188" fill="#24292f" font-family="monospace" font-size="13" xml:space="preserve">streak.......... 0 days </text>
+<text x="40" y="166" fill="#24292f" font-family="monospace" font-size="13" xml:space="preserve">followers....... 2</text>
+<text x="40" y="188" fill="#24292f" font-family="monospace" font-size="13" xml:space="preserve">streak.......... 1 day 🔥</text>
 <text x="24" y="222" fill="#1a7f37" font-family="monospace" font-size="13">$</text>
 <text x="40" y="222" fill="#57606a" font-family="monospace" font-size="13">top languages</text>
-<text x="24" y="256" fill="#1a7f37" font-family="monospace" font-size="13">$</text>
-<text x="40" y="256" fill="#57606a" font-family="monospace" font-size="13">mood</text>
-<text x="40" y="278" fill="#24292f" font-family="monospace" font-size="13" xml:space="preserve">❓ unknown — waiting on first Actions run</text>
-<text x="24" y="300" fill="#1a7f37" font-family="monospace" font-size="13">$</text>
-<rect x="40" y="289" width="8" height="14" fill="#0969da"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+<text x="40" y="250" fill="#24292f" font-family="monospace" font-size="12">JavaScript</text>
+<rect x="130" y="242" width="220" height="8" rx="4" fill="#eaeef2"/>
+<rect x="130" y="242" width="172" height="8" rx="4" fill="#f1e05a"/>
+<text x="360" y="250" fill="#57606a" font-family="monospace" font-size="12">78%</text>
+<text x="40" y="272" fill="#24292f" font-family="monospace" font-size="12">CSS</text>
+<rect x="130" y="264" width="220" height="8" rx="4" fill="#eaeef2"/>
+<rect x="130" y="264" width="15" height="8" rx="4" fill="#663399"/>
+<text x="360" y="272" fill="#57606a" font-family="monospace" font-size="12">7%</text>
+<text x="40" y="294" fill="#24292f" font-family="monospace" font-size="12">Jupyter Notebook</text>
+<rect x="130" y="286" width="220" height="8" rx="4" fill="#eaeef2"/>
+<rect x="130" y="286" width="13" height="8" rx="4" fill="#DA5B0B"/>
+<text x="360" y="294" fill="#57606a" font-family="monospace" font-size="12">6%</text>
+<text x="40" y="316" fill="#24292f" font-family="monospace" font-size="12">HTML</text>
+<rect x="130" y="308" width="220" height="8" rx="4" fill="#eaeef2"/>
+<rect x="130" y="308" width="11" height="8" rx="4" fill="#e34c26"/>
+<text x="360" y="316" fill="#57606a" font-family="monospace" font-size="12">5%</text>
+<text x="24" y="344" fill="#1a7f37" font-family="monospace" font-size="13">$</text>
+<text x="40" y="344" fill="#57606a" font-family="monospace" font-size="13">mood</text>
+<text x="40" y="366" fill="#24292f" font-family="monospace" font-size="13" xml:space="preserve">☀️ Daytime Coder — most commits land 10am-6pm</text>
+<text x="24" y="388" fill="#1a7f37" font-family="monospace" font-size="13">$</text>
+<rect x="40" y="377" width="8" height="14" fill="#0969da"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
 </svg>
