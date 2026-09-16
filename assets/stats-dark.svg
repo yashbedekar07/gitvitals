@@ -11,10 +11,10 @@
 <text x="24" y="72" fill="#58a6ff" font-family="monospace" font-size="15" font-weight="bold">yashbedekar07</text>
 <text x="24" y="100" fill="#3fb950" font-family="monospace" font-size="13">$</text>
 <text x="40" y="100" fill="#6e7681" font-family="monospace" font-size="13">git log --stat --since="1 year ago"</text>
-<text x="40" y="122" fill="#c9d1d9" font-family="monospace" font-size="13" xml:space="preserve">commits (1y).... 40</text>
+<text x="40" y="122" fill="#c9d1d9" font-family="monospace" font-size="13" xml:space="preserve">commits (1y).... 42</text>
 <text x="40" y="144" fill="#c9d1d9" font-family="monospace" font-size="13" xml:space="preserve">stars........... 0</text>
 <text x="40" y="166" fill="#c9d1d9" font-family="monospace" font-size="13" xml:space="preserve">followers....... 2</text>
-<text x="40" y="188" fill="#c9d1d9" font-family="monospace" font-size="13" xml:space="preserve">streak.......... 0 days </text>
+<text x="40" y="188" fill="#c9d1d9" font-family="monospace" font-size="13" xml:space="preserve">streak.......... 1 day 🔥</text>
 <text x="24" y="222" fill="#3fb950" font-family="monospace" font-size="13">$</text>
 <text x="40" y="222" fill="#6e7681" font-family="monospace" font-size="13">top languages</text>
 <text x="40" y="250" fill="#c9d1d9" font-family="monospace" font-size="12">JavaScript</text>
@@ -35,7 +35,7 @@
 <text x="360" y="316" fill="#6e7681" font-family="monospace" font-size="12">5%</text>
 <text x="24" y="344" fill="#3fb950" font-family="monospace" font-size="13">$</text>
 <text x="40" y="344" fill="#6e7681" font-family="monospace" font-size="13">mood</text>
-<text x="40" y="366" fill="#c9d1d9" font-family="monospace" font-size="13" xml:space="preserve">❓ unknown — No recent public push activity</text>
+<text x="40" y="366" fill="#c9d1d9" font-family="monospace" font-size="13" xml:space="preserve">☀️ Daytime Coder — most commits land 10am-6pm</text>
 <text x="24" y="388" fill="#3fb950" font-family="monospace" font-size="13">$</text>
 <rect x="40" y="377" width="8" height="14" fill="#58a6ff"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
 </svg>
