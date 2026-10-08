@@ -19,16 +19,16 @@
 <text x="40" y="222" fill="#6e7681" font-family="monospace" font-size="13">top languages</text>
 <text x="40" y="250" fill="#c9d1d9" font-family="monospace" font-size="12">JavaScript</text>
 <rect x="130" y="242" width="220" height="8" rx="4" fill="#21262d"/>
-<rect x="130" y="242" width="139" height="8" rx="4" fill="#f1e05a"/>
-<text x="360" y="250" fill="#6e7681" font-family="monospace" font-size="12">63%</text>
+<rect x="130" y="242" width="119" height="8" rx="4" fill="#f1e05a"/>
+<text x="360" y="250" fill="#6e7681" font-family="monospace" font-size="12">54%</text>
 <text x="40" y="272" fill="#c9d1d9" font-family="monospace" font-size="12">Jupyter Notebook</text>
 <rect x="130" y="264" width="220" height="8" rx="4" fill="#21262d"/>
-<rect x="130" y="264" width="53" height="8" rx="4" fill="#DA5B0B"/>
-<text x="360" y="272" fill="#6e7681" font-family="monospace" font-size="12">24%</text>
+<rect x="130" y="264" width="77" height="8" rx="4" fill="#DA5B0B"/>
+<text x="360" y="272" fill="#6e7681" font-family="monospace" font-size="12">35%</text>
 <text x="40" y="294" fill="#c9d1d9" font-family="monospace" font-size="12">CSS</text>
 <rect x="130" y="286" width="220" height="8" rx="4" fill="#21262d"/>
-<rect x="130" y="286" width="13" height="8" rx="4" fill="#663399"/>
-<text x="360" y="294" fill="#6e7681" font-family="monospace" font-size="12">6%</text>
+<rect x="130" y="286" width="11" height="8" rx="4" fill="#663399"/>
+<text x="360" y="294" fill="#6e7681" font-family="monospace" font-size="12">5%</text>
 <text x="40" y="316" fill="#c9d1d9" font-family="monospace" font-size="12">HTML</text>
 <rect x="130" y="308" width="220" height="8" rx="4" fill="#21262d"/>
 <rect x="130" y="308" width="9" height="8" rx="4" fill="#e34c26"/>
